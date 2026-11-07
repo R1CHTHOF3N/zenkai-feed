@@ -1,0 +1,15 @@
+{
+  "data": {
+    "global": {
+      "client_version": "6.6.5-6f6ccf8db5d36d28902a508003ccece60e44befb06acb191ddd00942e3de6ad2"
+    },
+    "issued_at": 1794078192,
+    "notice": "",
+    "schema": 1,
+    "zenkai": {
+      "latest": "0.5.0a1",
+      "notes": ""
+    }
+  },
+  "sig": "lUGM4LsMRbDcO4CdUcj8fvbvWo1mCtXkTR6nO7yd1pfNtHGRucBRLvZSjaIc2eUvH4Yd2tr8X8TIJ9Dayu/fAQ=="
+}
