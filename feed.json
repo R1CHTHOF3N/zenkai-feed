@@ -3,17 +3,17 @@
     "global": {
       "client_version": "6.6.5-6f6ccf8db5d36d28902a508003ccece60e44befb06acb191ddd00942e3de6ad2"
     },
-    "issued_at": 1794598391,
+    "issued_at": 1794600864,
     "notice": "",
     "schema": 1,
     "zenkai": {
       "latest": "1.0.0",
       "notes": "Ultimate Clash, faster",
       "sha256": {
-        "linux": "562c42ba42f0d1caa90d733ed3f74541330354977c5106b894342db26ce2eecb",
-        "windows": "c40234972df8902c711daf1ab86395b6b4f6afe9aec6fe2e220819fc30ce87da"
+        "linux": "38ec448238e670fe8a84ed6cd50c93b307e233322c3d9e7c743326ee5daf1dda",
+        "windows": "2237758b00116a021cd302a876fb018defc7b932560e73543b246a81ae1a1d72"
       }
     }
   },
-  "sig": "ZraG55aWF8SnYPcjkrAKlFiPfkWanllb8OnUj4eF+Q2QQIB5l+HNsv7KXMotGozP4POqm5BEEBtAkLxg+Pv1CQ=="
+  "sig": "6U8/qUYV4aoJHBYx/ZAcXZRyAFEt6t+3ESrpkbRTYUGcMwj+thu+6gWSyXOa2Xe27I/JBl2tK7wdePamnY50Dg=="
 }
