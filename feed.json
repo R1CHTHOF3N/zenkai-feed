@@ -3,17 +3,17 @@
     "global": {
       "client_version": "6.7.0-964b38e279eef86f0a3f5c52714e8646033b038d195fff92051799f0fa1e8c9a"
     },
-    "issued_at": 1795560783,
+    "issued_at": 1795561304,
     "notice": "",
     "schema": 1,
     "zenkai": {
-      "latest": "2.1.0",
-      "notes": "Farm and awaken cards, several event stages at once, EZA plan",
+      "latest": "2.1.1",
+      "notes": "Cleaner console, honest gift count, box expansion only without card selling",
       "sha256": {
-        "linux": "a01a806561d9256e72c217d336511c3bc10fb4593d81627f75aaef78081321ab",
-        "windows": "af872b4c12b438d45b77794453645b28d3220000771e0a2c99caa018565b57c0"
+        "linux": "69e2c7947f950ba742bdc4e9813e8bc4e81eb3c853f5cfc1f609afbdb00c1701",
+        "windows": "5310d3936b784d52f8dca18ae38c1fcd7a5a6d8a426a56f0bb42cad1b46850e6"
       }
     }
   },
-  "sig": "Spzt8kOOwPT36CrPSxsKXd/IJg6MD8cJUcZjnMZJjUL6WzPKYvZwffXXOY8jcNTJZBISsSdPv54T8sx1iBeoDg=="
+  "sig": "N31uxOm0H/O+2PkIbVQXvto1/QfBmfjspYzSOkFUZ17S4pGjCKaxRL3B8gpftfeqWI13sfXEqUdcFwrtqA7JBw=="
 }
