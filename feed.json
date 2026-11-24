@@ -3,17 +3,17 @@
     "global": {
       "client_version": "6.7.0-964b38e279eef86f0a3f5c52714e8646033b038d195fff92051799f0fa1e8c9a"
     },
-    "issued_at": 1795019215,
+    "issued_at": 1795560783,
     "notice": "",
     "schema": 1,
     "zenkai": {
-      "latest": "1.0.0",
-      "notes": "Ultimate Clash, faster",
+      "latest": "2.1.0",
+      "notes": "Farm and awaken cards, several event stages at once, EZA plan",
       "sha256": {
-        "linux": "38ec448238e670fe8a84ed6cd50c93b307e233322c3d9e7c743326ee5daf1dda",
-        "windows": "2237758b00116a021cd302a876fb018defc7b932560e73543b246a81ae1a1d72"
+        "linux": "a01a806561d9256e72c217d336511c3bc10fb4593d81627f75aaef78081321ab",
+        "windows": "af872b4c12b438d45b77794453645b28d3220000771e0a2c99caa018565b57c0"
       }
     }
   },
-  "sig": "ETWAdYUwdNODJ7R/2D6pzl2i3oWQ3F+FxfxETVaXloizo8IO2wZDbr+CAq/KUuFstecxa2btgjWVl8Erym75CA=="
+  "sig": "Spzt8kOOwPT36CrPSxsKXd/IJg6MD8cJUcZjnMZJjUL6WzPKYvZwffXXOY8jcNTJZBISsSdPv54T8sx1iBeoDg=="
 }
